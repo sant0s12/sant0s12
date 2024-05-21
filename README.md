@@ -12,6 +12,10 @@
   </picture>
 </a>
 
+---
+
+📊 **Coding stats**
+
 <!--START_SECTION:waka-->
 
 ```txt
