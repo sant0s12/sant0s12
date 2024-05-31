@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 April 2024 - To: 28 May 2024
+From: 29 April 2024 - To: 29 May 2024
 
-Total Time: 37 hrs 31 mins
+Total Time: 40 hrs 23 mins
 
-C++             9 hrs 32 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.13 %
-Meson           8 hrs 6 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.34 %
-C               3 hrs 56 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
-JavaScript      3 hrs 33 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
-Nix             2 hrs 30 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
+C++             10 hrs 14 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.03 %
+Meson           8 hrs 6 mins    █████░░░░░░░░░░░░░░░░░░░░   19.81 %
+C               4 hrs 22 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
+JavaScript      3 hrs 33 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
+Nix             3 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
 ```
 
 <!--END_SECTION:waka-->
