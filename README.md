@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 June 2024 - To: 19 July 2024
+From: 20 June 2024 - To: 20 July 2024
 
-Total Time: 60 hrs 27 mins
+Total Time: 56 hrs 15 mins
 
-TeX             28 hrs 30 mins  ███████████▓░░░░░░░░░░░░░   46.55 %
-C               9 hrs 12 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
-C++             9 hrs 10 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 %
-CSV             5 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 %
-Python          4 hrs 31 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
+TeX             25 hrs 24 mins  ███████████░░░░░░░░░░░░░░   44.57 %
+C++             9 hrs 10 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.09 %
+C               8 hrs 18 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
+CSV             5 hrs 6 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
+Python          4 hrs 31 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
 ```
 
 <!--END_SECTION:waka-->
