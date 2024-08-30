@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 July 2024 - To: 26 August 2024
+From: 29 July 2024 - To: 28 August 2024
 
-Total Time: 8 hrs 28 mins
+Total Time: 4 hrs 16 mins
 
-Python     4 hrs 6 mins    ████████████░░░░░░░░░░░░░   48.52 %
-Nix        3 hrs           █████████░░░░░░░░░░░░░░░░   35.51 %
-hog        18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-Text       13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-TeX        12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+Nix        1 hr 54 mins    ███████████░░░░░░░░░░░░░░   44.49 %
+Python     1 hr 12 mins    ███████░░░░░░░░░░░░░░░░░░   28.11 %
+hog        18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+TeX        12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+Markdown   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
 ```
 
 <!--END_SECTION:waka-->
