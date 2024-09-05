@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 August 2024 - To: 02 September 2024
+From: 04 August 2024 - To: 03 September 2024
 
-Total Time: 7 hrs 27 mins
+Total Time: 10 hrs 12 mins
 
-Python            4 hrs 12 mins   ██████████████░░░░░░░░░░░   56.36 %
-Nix               2 hrs 16 mins   ███████▓░░░░░░░░░░░░░░░░░   30.47 %
-hog               18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
-Text              11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-gitignore         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+Python            6 hrs 35 mins   ████████████████░░░░░░░░░   64.50 %
+Nix               2 hrs 31 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.70 %
+hog               18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+Text              11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+TOML              8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
