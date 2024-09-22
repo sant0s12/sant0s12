@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 August 2024 - To: 19 September 2024
+From: 21 August 2024 - To: 20 September 2024
 
-Total Time: 17 hrs 54 mins
+Total Time: 18 hrs 35 mins
 
-Python            10 hrs 43 mins  ███████████████░░░░░░░░░░   59.90 %
-Nix               3 hrs 11 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.81 %
-YAML              1 hr 28 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
-Bash              30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
-TOML              26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+Python             10 hrs 58 mins  ██████████████▓░░░░░░░░░░   59.03 %
+Nix                3 hrs 26 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.50 %
+YAML               1 hr 28 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
+Bash               30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+conf               29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
 ```
 
 <!--END_SECTION:waka-->
