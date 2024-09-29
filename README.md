@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 August 2024 - To: 26 September 2024
+From: 28 August 2024 - To: 27 September 2024
 
-Total Time: 22 hrs 56 mins
+Total Time: 23 hrs 37 mins
 
-Python             11 hrs 39 mins  ████████████▓░░░░░░░░░░░░   50.30 %
-YAML               2 hrs 32 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
-Nix                1 hr 57 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
-conf               1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
-Devicetree         58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+Python             11 hrs 39 mins  ████████████▒░░░░░░░░░░░░   48.85 %
+YAML               2 hrs 32 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
+Nix                1 hr 57 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
+C                  1 hr 36 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
+conf               1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
 ```
 
 <!--END_SECTION:waka-->
