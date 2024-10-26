@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 September 2024 - To: 23 October 2024
+From: 24 September 2024 - To: 24 October 2024
 
-Total Time: 52 hrs 31 mins
+Total Time: 53 hrs 16 mins
 
-C                  27 hrs 7 mins   ████████████▓░░░░░░░░░░░░   50.87 %
-Svelte             4 hrs 17 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
-Devicetree         4 hrs           ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
-Python             3 hrs 55 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
-conf               3 hrs 32 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
+C                  27 hrs 28 mins  ████████████▓░░░░░░░░░░░░   51.05 %
+Python             6 hrs 37 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
+Svelte             3 hrs 50 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
+Devicetree         3 hrs 14 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
+conf               2 hrs 59 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
 ```
 
 <!--END_SECTION:waka-->
