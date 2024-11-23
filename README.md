@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 October 2024 - To: 20 November 2024
+From: 22 October 2024 - To: 21 November 2024
 
-Total Time: 75 hrs 55 mins
+Total Time: 76 hrs 36 mins
 
-Python             43 hrs 36 mins  ██████████████▒░░░░░░░░░░   57.23 %
-C                  21 hrs 38 mins  ███████░░░░░░░░░░░░░░░░░░   28.40 %
-conf               2 hrs 42 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
-Nix                2 hrs 4 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-CMake              1 hr 36 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+Python             46 hrs 23 mins  ███████████████░░░░░░░░░░   60.39 %
+C                  19 hrs 52 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.87 %
+conf               2 hrs 41 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+Nix                2 hrs 4 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+CMake              1 hr 30 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
 ```
 
 <!--END_SECTION:waka-->
