@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 October 2024 - To: 27 November 2024
+From: 29 October 2024 - To: 28 November 2024
 
-Total Time: 78 hrs 18 mins
+Total Time: 80 hrs 22 mins
 
-Python        46 hrs 54 mins  ███████████████░░░░░░░░░░   59.55 %
-C             24 hrs 27 mins  ███████▓░░░░░░░░░░░░░░░░░   31.05 %
-Nix           1 hr 46 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-conf          1 hr 43 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-CSV           51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+Python        48 hrs 24 mins  ███████████████░░░░░░░░░░   59.88 %
+C             24 hrs 30 mins  ███████▓░░░░░░░░░░░░░░░░░   30.32 %
+conf          2 hrs 14 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+Nix           1 hr 46 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+CSV           51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 ```
 
 <!--END_SECTION:waka-->
