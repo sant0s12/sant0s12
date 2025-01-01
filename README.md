@@ -17,14 +17,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 November 2024 - To: 29 December 2024
+From: 30 November 2024 - To: 30 December 2024
 
-Total Time: 48 hrs 51 mins
+Total Time: 48 hrs 52 mins
 
-C             31 hrs 29 mins  ████████████████░░░░░░░░░   64.44 %
-Python        13 hrs 4 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.75 %
-Devicetree    2 hrs           █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
-Nix           49 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+C             31 hrs 29 mins  ████████████████░░░░░░░░░   64.34 %
+Python        13 hrs 4 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.71 %
+Devicetree    2 hrs           █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+Nix           49 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
 CSV           34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 ```
 
