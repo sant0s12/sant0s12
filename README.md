@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 December 2024 - To: 29 January 2025
+From: 31 December 2024 - To: 30 January 2025
 
-Total Time: 60 hrs 50 mins
+Total Time: 66 hrs 9 mins
 
-C               45 hrs 23 mins  ██████████████████▓░░░░░░   74.05 %
-Python          11 hrs 7 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.14 %
-Nix             1 hr 12 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-Devicetree      1 hr 6 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-CMake           54 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+C               49 hrs 32 mins  ██████████████████▓░░░░░░   74.37 %
+Python          12 hrs 2 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.06 %
+Nix             1 hr 12 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+CMake           1 hr 7 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+Devicetree      1 hr 6 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
 ```
 
 <!--END_SECTION:waka-->
