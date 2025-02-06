@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2025 - To: 03 February 2025
+From: 05 January 2025 - To: 04 February 2025
 
-Total Time: 71 hrs 14 mins
+Total Time: 76 hrs 8 mins
 
-C               54 hrs 55 mins  ███████████████████░░░░░░   76.52 %
-Python          10 hrs 6 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 %
-TeX             1 hr 21 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-CMake           1 hr 7 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-Devicetree      1 hr 6 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+C               54 hrs 55 mins  ██████████████████░░░░░░░   71.64 %
+Python          10 hrs 6 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
+TeX             6 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
+CMake           1 hr 7 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Devicetree      1 hr 6 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->
