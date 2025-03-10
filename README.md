@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 February 2025 - To: 07 March 2025
+From: 06 February 2025 - To: 08 March 2025
 
-Total Time: 122 hrs 20 mins
+Total Time: 117 hrs 41 mins
 
-C             64 hrs 11 mins  █████████████░░░░░░░░░░░░   52.25 %
-TeX           31 hrs 14 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.43 %
-Python        17 hrs 31 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
-Nix           4 hrs 7 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
-conf          1 hr 8 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+C             60 hrs 39 mins  ████████████▓░░░░░░░░░░░░   51.31 %
+TeX           31 hrs 41 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.81 %
+Python        16 hrs 24 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.88 %
+Nix           3 hrs 43 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+conf          1 hr 6 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 ```
 
 <!--END_SECTION:waka-->
