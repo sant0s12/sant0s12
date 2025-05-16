@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2025 - To: 13 May 2025
+From: 14 April 2025 - To: 14 May 2025
 
-Total Time: 33 hrs 13 mins
+Total Time: 32 hrs 51 mins
 
-Zig            26 hrs 57 mins  ████████████████████░░░░░   80.43 %
-TeX            2 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
-Nix            1 hr 44 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
-hyprlang       46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-ghostty        30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Zig            26 hrs 57 mins  ████████████████████▒░░░░   81.32 %
+TeX            2 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+Nix            1 hr 38 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+hyprlang       46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+ghostty        30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 ```
 
 <!--END_SECTION:waka-->
