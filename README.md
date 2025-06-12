@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 May 2025 - To: 09 June 2025
+From: 11 May 2025 - To: 10 June 2025
 
-Total Time: 7 hrs
+Total Time: 7 hrs 27 mins
 
-TeX            3 hrs 22 mins   ███████████▓░░░░░░░░░░░░░   46.94 %
-Markdown       1 hr 7 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.70 %
-hyprlang       46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 %
-cfg            20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
-OpenEdge ABL   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+TeX            3 hrs 22 mins   ███████████░░░░░░░░░░░░░░   44.20 %
+Markdown       1 hr 7 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 %
+hyprlang       46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
+Python         38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
+cfg            20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
 ```
 
 <!--END_SECTION:waka-->
