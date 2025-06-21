@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 May 2025 - To: 18 June 2025
+From: 20 May 2025 - To: 19 June 2025
 
-Total Time: 8 hrs 7 mins
+Total Time: 6 hrs 56 mins
 
-TeX            3 hrs 20 mins   ██████████░░░░░░░░░░░░░░░   40.18 %
-Python         1 hr 8 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
-Nix            49 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
-Markdown       45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
-hyprlang       44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
+TeX            3 hrs 6 mins    ███████████▒░░░░░░░░░░░░░   44.75 %
+Python         1 hr 8 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.40 %
+Nix            49 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 %
+Markdown       45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
+CSV            17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
 ```
 
 <!--END_SECTION:waka-->
