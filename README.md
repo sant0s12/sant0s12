@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 May 2025 - To: 21 June 2025
+From: 23 May 2025 - To: 22 June 2025
 
-Total Time: 5 hrs 34 mins
+Total Time: 5 hrs 33 mins
 
-TeX            2 hrs 26 mins   ███████████░░░░░░░░░░░░░░   43.81 %
-Python         1 hr 8 mins     █████░░░░░░░░░░░░░░░░░░░░   20.38 %
-Nix            49 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.81 %
-CSV            17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
-OpenEdge ABL   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+TeX            2 hrs 26 mins   ███████████░░░░░░░░░░░░░░   43.97 %
+Python         1 hr 8 mins     █████░░░░░░░░░░░░░░░░░░░░   20.45 %
+Nix            49 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 %
+CSV            17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+OpenEdge ABL   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
 ```
 
 <!--END_SECTION:waka-->
