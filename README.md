@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2025 - To: 03 July 2025
+From: 04 June 2025 - To: 04 July 2025
 
-Total Time: 5 hrs 29 mins
+Total Time: 3 hrs 5 mins
 
-TeX            2 hrs 32 mins   ███████████▓░░░░░░░░░░░░░   46.30 %
-Python         1 hr 8 mins     █████▒░░░░░░░░░░░░░░░░░░░   20.75 %
-Nix            49 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 %
-Markdown       20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
-CSV            17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+Python         1 hr 8 mins     █████████▒░░░░░░░░░░░░░░░   36.91 %
+Nix            49 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.82 %
+Markdown       19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
+CSV            17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
+OpenEdge ABL   12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
 ```
 
 <!--END_SECTION:waka-->
