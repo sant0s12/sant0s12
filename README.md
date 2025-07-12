@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 June 2025 - To: 09 July 2025
+From: 10 June 2025 - To: 10 July 2025
 
-Total Time: 3 hrs 48 mins
+Total Time: 3 hrs 17 mins
 
-Nix        2 hrs 7 mins    ██████████████░░░░░░░░░░░   55.89 %
-Python     1 hr 8 mins     ███████▒░░░░░░░░░░░░░░░░░   29.89 %
-CSV        17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
-XML        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-ghostty    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+Nix          2 hrs 7 mins    ████████████████░░░░░░░░░   64.45 %
+Python       34 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.52 %
+CSV          8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+JavaScript   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+XML          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
 ```
 
 <!--END_SECTION:waka-->
