@@ -17,14 +17,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 June 2025 - To: 17 July 2025
+From: 18 June 2025 - To: 18 July 2025
 
-Total Time: 2 hrs 26 mins
+Total Time: 2 hrs 14 mins
 
-Nix          1 hr 44 mins    █████████████████▓░░░░░░░   71.19 %
-C            23 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
-JavaScript   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
-ghostty      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+Nix          1 hr 32 mins    █████████████████▒░░░░░░░   68.85 %
+C            23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.53 %
+JavaScript   8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+ghostty      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
 ```
 
 <!--END_SECTION:waka-->
