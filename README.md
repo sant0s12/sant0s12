@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 July 2025 - To: 06 August 2025
+From: 09 July 2025 - To: 08 August 2025
 
-Total Time: 3 hrs 33 mins
+Total Time: 2 hrs 12 mins
 
-Nix          1 hr 31 mins    ██████████▓░░░░░░░░░░░░░░   42.97 %
-Python       1 hr 16 mins    █████████░░░░░░░░░░░░░░░░   36.13 %
-C            23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 %
-JavaScript   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
-ghostty      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Python       1 hr 19 mins    ███████████████░░░░░░░░░░   60.26 %
+C            23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.96 %
+Nix          12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
+JavaScript   8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
+hyprlang     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 ```
 
 <!--END_SECTION:waka-->
