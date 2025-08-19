@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 July 2025 - To: 16 August 2025
+From: 18 July 2025 - To: 17 August 2025
 
-Total Time: 1 hr 35 mins
+Total Time: 1 hr 44 mins
 
-Python     1 hr 19 mins    ████████████████████▓░░░░   83.19 %
-Nix        12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 %
-hyprlang   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-zsh        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-CSV        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Python     1 hr 19 mins    ███████████████████░░░░░░   76.28 %
+Nix        21 mins         █████░░░░░░░░░░░░░░░░░░░░   20.66 %
+hyprlang   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+zsh        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+CSV        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
