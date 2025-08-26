@@ -17,13 +17,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 July 2025 - To: 23 August 2025
+From: 25 July 2025 - To: 24 August 2025
 
-Total Time: 1 hr 37 mins
+Total Time: 1 hr 19 mins
 
-Python   1 hr 18 mins    ████████████████████▒░░░░   81.12 %
-Nix      17 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.52 %
-CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Python   1 hr 1 min      ███████████████████▒░░░░░   77.30 %
+Nix      17 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.70 %
 ```
 
 <!--END_SECTION:waka-->
