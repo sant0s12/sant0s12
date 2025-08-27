@@ -17,12 +17,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 July 2025 - To: 24 August 2025
+From: 26 July 2025 - To: 25 August 2025
 
-Total Time: 1 hr 19 mins
+Total Time: 3 hrs 36 mins
 
-Python   1 hr 1 min      ███████████████████▒░░░░░   77.30 %
-Nix      17 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.70 %
+Python      2 hrs 44 mins   ███████████████████░░░░░░   75.85 %
+Bash        31 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
+Nix         18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
+Go          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
