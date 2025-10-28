@@ -17,12 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 September 2025 - To: 25 October 2025
+From: 26 September 2025 - To: 26 October 2025
 
-Total Time: 1 hr 13 mins
+Total Time: 1 hr 41 mins
 
-Python   56 mins         ███████████████████░░░░░░   76.61 %
-CSV      17 mins         ██████░░░░░░░░░░░░░░░░░░░   23.39 %
+Python     1 hr 18 mins    ███████████████████▒░░░░░   77.32 %
+CSV        17 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.72 %
+hyprlang   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
 ```
 
 <!--END_SECTION:waka-->
