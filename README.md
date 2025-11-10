@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 October 2025 - To: 07 November 2025
+From: 09 October 2025 - To: 08 November 2025
 
-Total Time: 4 hrs 28 mins
+Total Time: 4 hrs 56 mins
 
-Python     3 hrs 17 mins   ██████████████████▒░░░░░░   73.41 %
-CSV        17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
-ghostty    15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
-Nix        14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
-hyprlang   13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+Python      3 hrs 25 mins   █████████████████▒░░░░░░░   69.36 %
+ghostty     29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
+CSV         17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+Nix         14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+hyprlang    13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
 ```
 
 <!--END_SECTION:waka-->
