@@ -17,15 +17,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 November 2025 - To: 07 December 2025
+From: 08 November 2025 - To: 08 December 2025
 
-Total Time: 57 mins
+Total Time: 29 mins
 
-Python      32 mins         ██████████████░░░░░░░░░░░   56.02 %
-ghostty     13 mins         ██████░░░░░░░░░░░░░░░░░░░   24.38 %
-Nix         5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
-sshconfig   3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
-Bash        2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+Python   23 mins         ████████████████████▒░░░░   80.98 %
+Nix      5 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.02 %
 ```
 
 <!--END_SECTION:waka-->
